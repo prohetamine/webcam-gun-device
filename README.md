@@ -2,7 +2,7 @@
 Money rain on the broadcast
 
 Tested: 
-![Example](/tested.gif)
+![Example](/example.gif)
 
 Extension:
 ![Example](/extension.png)
