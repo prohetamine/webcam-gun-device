@@ -11,4 +11,4 @@ Tested:
 Extension:
 
 
-![Example](/extension.png)
+![Example](/example-extension.gif)
